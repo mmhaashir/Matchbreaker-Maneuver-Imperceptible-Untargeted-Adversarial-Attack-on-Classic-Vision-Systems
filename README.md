@@ -1,0 +1,2 @@
+# Matchbreaker-Maneuver-Imperceptible-Untargeted-Adversarial-Attack-on-Classic-Vision-Systems
+Official implementation of Matchbreaker Maneuver, an imperceptible untargeted adversarial attack on classical computer vision pipelines. Demonstrates vulnerabilities in feature-based image registration, Bag-of-Words, and FAB-MAP systems with state-of-the-art attack effectiveness and visual imperceptibility.
